@@ -42,11 +42,12 @@ a:link {
 }
 
 .search-bar {
-  width: 400px;
+  width: 500px;
   padding: 10px;
   border: 1px solid #ddd;
   border-radius: 24px;
   outline: none;
+  margin-top: 30px;
 }
 
 .search-bar:focus {
@@ -63,14 +64,15 @@ a:link {
 
 .search-button {
   margin-top: 10px;
-  padding: 10px 20px;
+  padding: 5px 10px;
   border: none;
-  background-color: #4285f4;
-  color: white;
+  background-color: whitesmoke;
+  color: black;
   border-radius: 4px;
   cursor: pointer;
+  margin: 5px;
 }
 
 .search-button:hover {
-  background-color: #357ae8;
+  background-color: whitesmoke;
 }
