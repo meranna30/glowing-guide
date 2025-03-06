@@ -28,3 +28,8 @@ a:link {
   a:active {
     color: black;
   }
+
+.center-div {
+    display: flex;
+  
+}
