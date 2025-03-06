@@ -1,5 +1,30 @@
-.navbar{
+.navbar-google{
     list-style-type: none;
     display: flex;
     flex-direction: row;
+    justify-content: flex-end;
 }
+
+.navbar-item-google{
+    margin: 10px;
+}
+
+/* unvisited link */
+a:link {
+    color: black;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: black;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: black;
+  }
+  
+  /* selected link */
+  a:active {
+    color: black;
+  }
