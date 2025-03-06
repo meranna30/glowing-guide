@@ -36,7 +36,7 @@ a:link {
   
 }
 
-.rounded-item {
+.truncate-item {
     display: flex;
     z-index: 3;
     height: 44px;
@@ -48,6 +48,7 @@ a:link {
     width: calc(632px + 6px);
     width: 300px;
     max-width: 584px;
+    align-items: center;
 
 }
 
