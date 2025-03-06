@@ -13,12 +13,13 @@
         <div class="center-div">
             <img src="download.png" alt="Google Icon" height="92">
         </div>
-        <div class="search-container">
-            <form action="https://google.com/search">
-                <input type="text" name="q" placeholder="Search" class="search-bar">
+        <div id="search-container">
+            <form action="https://google.com/search" method="get">
+                <input type="text" name="q" placeholder="Search Merant" class="search-bar">
+                <input type="hidden" name="tbm" value="isch">      
                 <div class="center-div">
-                <input type="submit" value="Google Images" class="search-button">
-                </div>
+                     <input type="submit" value="Google Images" class="search-button">
+                </div>        
             </form>
         </div>
     </body>

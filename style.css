@@ -37,7 +37,7 @@ a:link {
 }
 
 /* styles.css */
-.search-container {
+#search-container {
   text-align: center;
 }
 
@@ -48,6 +48,7 @@ a:link {
   border-radius: 24px;
   outline: none;
   margin-top: 30px;
+ 
 }
 
 .search-bar:focus {
@@ -76,3 +77,10 @@ a:link {
 .search-button:hover {
   background-color: whitesmoke;
 }
+
+.h1-advanced {
+  color: #d93025;
+  font-size: 20px;
+  margin: 25px 35px;
+}
+
