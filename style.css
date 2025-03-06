@@ -36,7 +36,7 @@ a:link {
   
 }
 
-.rounded-item{
+.rounded-item {
     display: flex;
     z-index: 3;
     height: 44px;
