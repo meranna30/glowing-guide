@@ -46,7 +46,7 @@ a:link {
     border-radius: 24px;
     margin: 0 auto;
     width: calc(632px + 6px);
-    width: auto;
+    width: 300px;
     max-width: 584px;
 
 }
